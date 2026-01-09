@@ -1,3 +1,4 @@
 [submodule "picoros"]
 	path = picoros
-	url = https://github.com/Pico-ROS/Pico-ROS-software.git
+	url = https://github.com/wheelbot-tech/Pico-ROS-software.git
+	branch = fix/zenoh-pico-issue-1103
