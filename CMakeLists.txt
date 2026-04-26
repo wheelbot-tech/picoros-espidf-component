@@ -7,11 +7,13 @@ file(GLOB_RECURSE SOURCES_GLOB
         "picoros/thirdparty/zenoh-pico/src/link/*.c"
         "picoros/thirdparty/zenoh-pico/src/net/*.c"
         "picoros/thirdparty/zenoh-pico/src/protocol/*.c"
+        "picoros/thirdparty/zenoh-pico/src/runtime/*.c"
         "picoros/thirdparty/zenoh-pico/src/session/*.c"
         "picoros/thirdparty/zenoh-pico/src/transport/*.c"
         "picoros/thirdparty/zenoh-pico/src/utils/*.c"
         "picoros/thirdparty/zenoh-pico/src/system/espidf/*.c"
         "picoros/thirdparty/zenoh-pico/src/system/common/*.c"
+        "picoros/thirdparty/zenoh-pico/src/system/socket/*.c"
         "picoros/src/*.c"
 )
 
