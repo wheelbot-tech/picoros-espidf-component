@@ -32,6 +32,7 @@ idf_component_register(
                 ${INCLUDES}
             REQUIRES
                 driver
+                esp_driver_uart
             )
 
 # Set compile flags
